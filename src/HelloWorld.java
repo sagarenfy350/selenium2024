@@ -4,19 +4,7 @@ public class HelloWorld {
         for(int i=0;i<=j;i++){
           System.out.println(i);
 
-
-            System.out.println("Named");
-            System.out.println("Unnamed");
-            System.out.println("Named");
-            System.out.println("Unnamed");
-            System.out.println("This code is from gitX");
-            System.out.println("This code is from gitX");
-            System.out.println("This code is from gitX");
-            System.out.println("This code is from gitX");
-            System.out.println("This code is from gitX");
-            System.out.println("This code is from gitX");
-            System.out.println("This is the code from Sagargit to sagarGitx");
-
-      }
+          System.out.println("Git A");
+   }
     }
 }
