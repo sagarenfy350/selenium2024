@@ -3,8 +3,8 @@ public class HelloWorld {
         int j=10;
         for(int i=0;i<=j;i++){
           System.out.println(i);
-          System.out.println("Git A");
 
-      }
+          System.out.println("Git A");
+   }
     }
 }
