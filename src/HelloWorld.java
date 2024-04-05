@@ -3,6 +3,9 @@ public class HelloWorld {
         int j=10;
         for(int i=0;i<=j;i++){
           System.out.println(i);
+
+          System.out.println("Named");
+          System.out.println("Unnamed");
       }
     }
 }
